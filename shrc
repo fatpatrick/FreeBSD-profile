@@ -1,0 +1,2 @@
+export ACT_AS_SH=1
+exec /usr/local/bin/bash
